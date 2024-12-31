@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-12-30 01:11:55" tvg-logo="https://live.fanmingming.com/tv/2024-12-30 01:11:55.png" group-title="🕘️更新时间",2024-12-30 01:11:55
+#EXTINF:-1 tvg-name="2025-01-01 01:11:27" tvg-logo="https://live.fanmingming.com/tv/2025-01-01 01:11:27.png" group-title="🕘️更新时间",2025-01-01 01:11:27
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源-IPv6
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源-IPv6
@@ -1637,6 +1637,8 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8$订阅源-IPv6
 #EXTINF:-1 tvg-name="黑龙江科教" tvg-logo="https://live.fanmingming.com/tv/黑龙江科教.png" group-title="☘️黑龙江频道",黑龙江科教
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源-IPv6
+#EXTINF:-1 tvg-name="黑龙江科教" tvg-logo="https://live.fanmingming.com/tv/黑龙江科教.png" group-title="☘️黑龙江频道",黑龙江科教
+http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8$订阅源-IPv6
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://live.fanmingming.com/tv/哈尔滨新闻综合.png" group-title="☘️黑龙江频道",哈尔滨新闻综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8$订阅源-IPv6
 #EXTINF:-1 tvg-name="哈尔滨影视" tvg-logo="https://live.fanmingming.com/tv/哈尔滨影视.png" group-title="☘️黑龙江频道",哈尔滨影视
@@ -1699,6 +1701,8 @@ http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8$订阅源-IPv6
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000024282/index.m3u8?channel-id=bestzb&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源-IPv6
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
 http://[2409:8087:74d6:22::7]:6410/270000001128/9900000113/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000113$订阅源-IPv6
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源-IPv6
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8$订阅源-IPv6
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
