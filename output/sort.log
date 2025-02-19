@@ -4397,6 +4397,7 @@ Name: 厦门卫视, URL: http://[2409:8087:74d4:21::2f]/270000001128/9900000058/
 Name: 厦门卫视, URL: http://[2409:8087:74dc:21::1a]/270000001128/9900000058/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 厦门卫视, URL: http://[2409:8087:74d6:22::7]:6610/270000001128/9900000058/index.m3u8?channel-id=newtv&Ace$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 厦门卫视, URL: http://[2409:8087:5e00:24::20]:6610/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
+Name: 厦门卫视, URL: http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 海南新闻, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 海南新闻, URL: http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 海南新闻, URL: http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000015/index.m3u8?IAS$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
