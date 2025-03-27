@@ -2400,6 +2400,7 @@ Name: 甘肃卫视, URL: http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000
 Name: 甘肃卫视, URL: http://[2409:8087:5e00:24::20]:6610/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 甘肃卫视, URL: http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000031121/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=YanG-1989$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 甘肃卫视, URL: http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226545/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EPxObabIs3mLyPmSf2HHtqQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNBE3K16ZfzYGIqbP6z6cGJ%2CEND$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
+Name: 甘肃卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225728/2/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 广西卫视, URL: http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 广西卫视, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 广西卫视, URL: http://[2409:8087:74f0:22::4]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000456$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
@@ -2724,6 +2725,7 @@ Name: 河北卫视, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobi
 Name: 河北卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225991/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 河北卫视, URL: http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002229/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 河北卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225961/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
+Name: 河北卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225611/2/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 河南卫视, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 河南卫视, URL: http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 河南卫视, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
@@ -3048,6 +3050,7 @@ Name: 江西卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/wh7f454c
 Name: 江西卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225935/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 江西卫视, URL: http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000525$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 江西卫视, URL: http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
+Name: 江西卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225492/index.m3u8?fmt=ts2hls$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 辽宁卫视, URL: http://[2409:8087:74f0:22::4]:6410/270000001128/9900000526/index.m3u8?channel-id=newtv$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 辽宁卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225601/2/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 辽宁卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227485/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
@@ -3598,6 +3601,7 @@ Name: 深圳卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/8888891
 Name: 深圳卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225943/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 深圳卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225997/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 深圳卫视, URL: http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
+Name: 深圳卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225701/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 三沙卫视, URL: http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 三沙卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 三沙卫视, URL: http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
@@ -4056,6 +4060,7 @@ Name: 深圳卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/8888891
 Name: 深圳卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225943/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 深圳卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225997/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 深圳卫视, URL: http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
+Name: 深圳卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225701/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 北京新闻, URL: http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 北京生活, URL: http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 北京科教, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
