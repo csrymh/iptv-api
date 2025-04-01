@@ -2550,6 +2550,7 @@ Name: 贵州卫视, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobi
 Name: 贵州卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225483/index.m3u8?fmt=ts2hls$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 贵州卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226030/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 贵州卫视, URL: http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225974/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
+Name: 贵州卫视, URL: http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225961/main.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 海南卫视, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 海南卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226465/index.m3u8$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
 Name: 海南卫视, URL: http://[2409:8087:1e03:21::11]:6610/cms001/ch00000090990000001183/index.m3u8?$订阅源, Date: None, Delay: -inf ms, Speed: inf M/s, Resolution: None
